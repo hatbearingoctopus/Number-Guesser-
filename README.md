@@ -1,5 +1,5 @@
 # Number-Guesser-
 
-UDEMY-Practical Javascript project 
+UDEMY-Practical JS project 
 
 HTML and JS
